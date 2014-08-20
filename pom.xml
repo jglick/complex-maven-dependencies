@@ -24,6 +24,6 @@
         </dependencies>
     </dependencyManagement>
     <build>
-        <defaultGoal>verify</defaultGoal>
+        <defaultGoal>install</defaultGoal>
     </build>
 </project>
